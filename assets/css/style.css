@@ -858,6 +858,7 @@ banner
   position: relative;
   display: inline-block;
   max-width: none;
+  opacity: 0.3;
 }
 
 *,
